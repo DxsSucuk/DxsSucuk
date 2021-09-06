@@ -5,6 +5,7 @@
 - ⚡ Fun fact: Flames out of orbit are just circles.
 
 [![DxsSucuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=DxsSucuk&show_icons=true&theme=radical)](https://github.com/DxsSucuk/github-readme-stats)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DxsSucuk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dxssucuk&repo=ree6&theme=radical)](https://github.com/dxssucuk/github-readme-stats)
