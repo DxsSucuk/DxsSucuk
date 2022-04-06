@@ -1,7 +1,7 @@
 ## Hey hey! <img alt="hand_wave" src="https://raw.githubusercontent.com/DxsSucuk/DxsSucuk/main/assets/wave.gif" width="25px" /> I am Presti!
-Im a 17 year old Software Engineer which has alot of interests in AIs, Robotics, Cheat Development, Malware Development and Game Engineering.
+Im a 17 year old Software Engineer who is interests in AIs, Robotics, Cheat Development, Malware Development and Game Engineering.
 
-<img align="right" alt="me" title=":D" width="380px" src="https://www.presti.me/assets/img/presti.gif" >
+<img align="right" alt="me" title=":D" width="250px" src="https://www.presti.me/assets/img/presti.gif" >
 
 ## Stuff I work with 💻
 [![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=Java&logoColor=FFFFFF&message=Java&color=ED8B00&label=)](https://java.com/)
