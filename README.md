@@ -38,7 +38,7 @@ Im a 17 year old Software Engineer who is interests in AIs, Robotics, Cheat Deve
 </details>
 
 <details close>
-<summary>Spotify</summary>
+<summary>Spotify 🎵</summary>
   <p>
     <img alt="Spotify playing" height="165px" src="https://spotify-github-profile.vercel.app/api/view?uid=0yll7pztimqz7wkaraekuw1un&cover_image=true&theme=novatorem"/>
   </p>
