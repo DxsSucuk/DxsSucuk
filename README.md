@@ -1,16 +1,11 @@
-## Hey hey! <img alt="hand_wave" src="https://raw.githubusercontent.com/DxsSucuk/DxsSucuk/main/assets/wave.gif" height="25px" width="25px" /> I am Presti!
+## Breadsticks! <img alt="hand_wave" src="https://raw.githubusercontent.com/DxsSucuk/DxsSucuk/main/assets/wave.gif" height="25px" width="25px" /> I am Presti!
 Im a <span data-time="2005">17</span> year old Software Engineer who is interests in AIs, Robotics, Cheat Development, Malware Development and Game Engineering.
 
-<img align="right" alt="me" title=":D" width="250px" src="https://www.presti.me/assets/img/presti.gif" >
-
-## Stuff I work with 💻
-[![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=Java&logoColor=FFFFFF&message=Java&color=ED8B00&label=)](https://java.com/)
-[![C#](https://img.shields.io/static/v1?style=for-the-badge&logo=Csharp&logoColor=FFFFFF&message=C%23&color=8800ff&label=)](https://java.com/)
-[![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&message=GitHub&logoColor=FFFFFF&color=181717&label=)](https://github.com/)
-[![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&nbsp;IDEs&color=000000&label=)](https://www.jetbrains.com/)
-[![MySQL](https://img.shields.io/static/v1?style=for-the-badge&logo=MySQL&logoColor=FFFFFL&color=red&message=MySQL&label=)](https://mysql.com)
-[![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&logo=MariaDB&logoColor=FFFFFL&color=C51A4A&message=MariaDB&label=)](https://mariadb.com)
+<p align="left">
+  <img alt="me" title=":D" width="250px" src="https://www.presti.me/assets/img/presti.gif" />
+  <img align="right" width="60%" height="60%" src="https://github-widgetbox.vercel.app/api/skills/?names=java,csharp,mysql,yaml,json,xml&includeNames=true"         alt="GitHubWidget Box" />
+  <img align="left; bottom" src="https://komarev.com/ghpvc/?username=DxsSucuk" title="Profile Views" />
+</p>
 
 ### Contact Options 🤝🏻
 
