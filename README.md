@@ -4,7 +4,6 @@ Im a <span data-time="2005">17</span> year old Software Engineer who is interest
 <p align="left">
   <img alt="me" title=":D" width="250px" src="https://www.presti.me/assets/img/presti.gif" />
   <img align="right" width="60%" height="60%" src="https://github-widgetbox.vercel.app/api/skills/?names=java,csharp,mysql,yaml,json,xml&includeNames=true"         alt="GitHubWidget Box" />
-  <img align="left; bottom" src="https://komarev.com/ghpvc/?username=DxsSucuk" title="Profile Views" />
 </p>
 
 ### Contact Options 🤝🏻
@@ -15,9 +14,6 @@ Im a <span data-time="2005">17</span> year old Software Engineer who is interest
   </a>
   <a href="https://twitter.com/memerinoto">
     <img align="left" alt="Twitter" width="30px" src="assets/twitter.png">
-  </a>
-  <a href="https://www.reddit.com/user/PrestiSchmesti">
-    <img align="left" alt="Reddit" width="30px" src="assets/reddit.png">
   </a>
 </p>
 <br>
