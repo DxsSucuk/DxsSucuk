@@ -37,7 +37,7 @@ Im a <span data-time="2005">17</span> year old Software Engineer who is interest
 
 ---
 
-<p align="center">Thanks you for checking out my Profile! It would be nice if you could check out some of my Projects and maybe even star them! ❤️</p>
+<p align="center">Thanks you for checking out my Profile!<br>It would be nice if you could check out some of my Projects and maybe even star them! ❤️</p>
 <p align="center">
   <a href="https://ko-fi.com/T6T4AC652">
     <img alt="Donation" src="https://ko-fi.com/img/githubbutton_sm.svg">
