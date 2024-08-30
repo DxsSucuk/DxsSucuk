@@ -1,5 +1,5 @@
 ## Breadsticks! <img alt="hand_wave" src="https://raw.githubusercontent.com/DxsSucuk/DxsSucuk/main/assets/wave.gif" height="25px" width="25px" /> I am Presti!
-Im a <span data-time="2005">18</span> year old Software Engineer who is interests in AIs, Robotics, Cheat Development, Malware Development and Game Engineering.
+I am a <span data-time="2005">19</span> year-old Software Engineer who is interested in Robotics, Game Engineering, and everything else I obsess with for a month!
 
 <p align="left">
   <img alt="me" title=":D" width="250px" src="https://www.presti.me/assets/img/presti.gif" />
@@ -31,13 +31,13 @@ Im a <span data-time="2005">18</span> year old Software Engineer who is interest
 <details close>
 <summary>Spotify 🎵</summary>
   <p>
-    <img alt="Spotify playing" height="165px" src="https://spotify-github-profile.vercel.app/api/view?uid=0yll7pztimqz7wkaraekuw1un&cover_image=true&theme=novatorem"/>
+    <img alt="Spotify playing" height="165px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=0yll7pztimqz7wkaraekuw1un&cover_image=true&theme=novatorem"/>
   </p>
 </details>
 
 ---
 
-<p align="center">Thanks you for checking out my Profile!<br>It would be nice if you could check out some of my Projects and maybe even star them! ❤️</p>
+<p align="center"> Thank you for checking out my Profile!<br>It would be nice if you could check out some of my Projects and maybe even star them! ❤️</p>
 <p align="center">
   <a href="https://ko-fi.com/T6T4AC652">
     <img alt="Donation" src="https://ko-fi.com/img/githubbutton_sm.svg">
